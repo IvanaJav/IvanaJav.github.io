@@ -1,0 +1,52 @@
+
+@charset "UTF-8";
+@font-face {
+   font-family: simple-line-icons;
+   src: url(../fonts/simple-line-icons.eot);
+   src: url(../fonts/simple-line-icons.eot?#iefix)  format('embedded-opentype'), url(../fonts/simple-line-icons.woff)  format('woff'), url(../fonts/simple-line-icons.ttf)  format('truetype'), url(../fonts/simple-line-icons.svg#simple-line-icons)  format('svg');
+   font-weight: 400;
+   font-style: normal;
+}
+.icon-book-open, .icon-energy, .icon-envelope-open, .icon-eyeglasses, .icon-link, .icon-lock-open, .icon-magnifier, .icon-settings, .icon-social-facebook, .icon-social-twitter, .icon-support {
+   font-family: simple-line-icons;
+   speak: none;
+   font-style: normal;
+   font-weight: 400;
+   font-variant: normal;
+   text-transform: none;
+   line-height: 1;
+   -webkit-font-smoothing: antialiased
+}
+.icon-energy:before {
+   content: "\e020"
+}
+.icon-social-twitter:before {
+   content: "\e009"
+}
+.icon-social-facebook:before {
+   content: "\e00b"
+}
+.icon-eyeglasses:before {
+   content: "\e01d"
+}
+.icon-envelope-open:before {
+   content: "\e01e"
+}
+.icon-book-open:before {
+   content: "\e04c"
+}
+.icon-support:before {
+   content: "\e056"
+}
+.icon-link:before {
+   content: "\e08d"
+}
+.icon-lock-open:before {
+   content: "\e08f"
+}
+.icon-magnifier:before {
+   content: "\e090"
+}
+.icon-settings:before {
+   content: "\e09a"
+}
